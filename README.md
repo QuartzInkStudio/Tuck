@@ -32,6 +32,21 @@ Latest version: **Tuck 1.0.3 build 4**
 - [Français](docs/README.fr.md)
 - [Deutsch](docs/README.de.md)
 
+
+## Issues and Feedback
+
+Please open issues in this repository: <https://github.com/QuartzInkStudio/Tuck/issues>
+
+Using GitHub Issues helps everyone:
+
+- **One public place for feedback**: bugs, feature requests, compatibility reports, and release questions do not get lost in private email threads.
+- **Transparent status**: other users can see whether a problem is known, being investigated, fixed, or released.
+- **Better bug reports**: screenshots, macOS versions, Tuck versions, and reproduction steps can stay attached to the same thread.
+- **Community signal**: reactions and comments help prioritize the fixes and features that matter most.
+- **Multilingual support**: you can write in your preferred language; short English summaries are helpful but not required.
+
+For private billing, license, or account questions, email [support@usetuck.com](mailto:support@usetuck.com).
+
 ## Release Highlights
 
 ### 1.0.3

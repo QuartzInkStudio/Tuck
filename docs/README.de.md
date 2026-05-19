@@ -15,6 +15,21 @@
 - **Globaler Shortcut**: `Command + Shift + B`.
 - **Keine Telemetrie**: keine Analytics, kein Tracking, keine Datensammlung im Hintergrund.
 
+
+## Issues und Feedback
+
+Bitte erstellen Sie Issues in diesem Repository: <https://github.com/QuartzInkStudio/Tuck/issues>
+
+GitHub Issues hilft allen:
+
+- **Ein öffentlicher Ort für Feedback**: Bugs, Feature-Wünsche, Kompatibilitätsberichte und Release-Fragen gehen nicht in privaten E-Mails verloren.
+- **Transparenter Status**: andere Nutzer sehen, ob ein Problem bekannt ist, untersucht wird, behoben wurde oder bereits veröffentlicht ist.
+- **Bessere Bugreports**: Screenshots, macOS-Version, Tuck-Version und Reproduktionsschritte bleiben im selben Thread.
+- **Bessere Priorisierung**: Kommentare und Reaktionen zeigen, welche Fixes und Features am wichtigsten sind.
+- **Mehrsprachig willkommen**: Sie können auf Deutsch schreiben; eine kurze englische Zusammenfassung hilft, ist aber nicht erforderlich.
+
+Für private Zahlungs-, Lizenz- oder Kontofragen schreiben Sie bitte an [support@usetuck.com](mailto:support@usetuck.com).
+
 Aktuelle Version: **Tuck 1.0.3 build 4**
 
 Vollständiger Changelog: <https://usetuck.com/releases.html>
