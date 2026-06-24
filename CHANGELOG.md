@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.9
+
+- Reduced occasional Shelf Mode open delay by falling back to the local shelf cache when the collapsed hidden-section snapshot is empty.
+- Published the notarized 1.0.9 DMG and Sparkle appcast delta assets.
+
 ## 1.0.8
 
 - Fixed permission-window focus during macOS privacy prompts.

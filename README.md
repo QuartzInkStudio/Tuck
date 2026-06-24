@@ -2,7 +2,7 @@
 
 **Tuck is a lightweight macOS menu bar manager.** One click hides menu bar clutter, Shelf Mode keeps notched MacBooks usable, and the app stays private by design.
 
-[Download Tuck](https://usetuck.com/Tuck-1.0.8.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/) · [Bartender Alternative](https://usetuck.com/bartender-alternative/)
+[Download Tuck](https://usetuck.com/Tuck-1.0.9.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/) · [Bartender Alternative](https://usetuck.com/bartender-alternative/)
 
 > This repository is the public home for Tuck downloads, release notes, and product information. The commercial app source code is not published here.
 
@@ -17,9 +17,9 @@
 
 ## Download
 
-Latest version: **Tuck 1.0.8 build 9**
+Latest version: **Tuck 1.0.9 build 10**
 
-- Direct DMG: <https://usetuck.com/Tuck-1.0.8.dmg>
+- Direct DMG: <https://usetuck.com/Tuck-1.0.9.dmg>
 - Sparkle appcast: <https://usetuck.com/appcast.xml>
 - GitHub Releases: <https://github.com/QuartzInkStudio/Tuck/releases>
 
@@ -48,6 +48,11 @@ Using GitHub Issues helps everyone:
 For private billing, license, or account questions, email [support@usetuck.com](mailto:support@usetuck.com).
 
 ## Release Highlights
+
+### 1.0.9
+
+- Reduced occasional Shelf Mode open delay by falling back to the local shelf cache when the hidden-section snapshot is empty.
+- Published a notarized and stapled 1.0.9 DMG plus Sparkle appcast delta assets.
 
 ### 1.0.8
 
