@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.0.8
+
+- Fixed permission-window focus during macOS privacy prompts.
+- Prevented Tuck’s own menu bar toggle from disappearing into the hidden side.
+- Repaired Sparkle appcast metadata and homepage download links.
+
+## 1.0.7
+
+- Foregrounded Sparkle update checks from the menu bar context menu.
+- Improved release metadata for the public site.
+
+## 1.0.6
+
+- Improved safe offscreen drag fallback behavior for hidden menu bar items.
+- Updated Sparkle appcast release assets.
+
+## 1.0.5
+
+- Wired the menu bar “Check for Updates” action to Sparkle.
+- Published Sparkle appcast release assets.
+
+## 1.0.4
+
+- Restored the 1.0.3 accessibility permission flow.
+- Added Sparkle appcast release assets.
+
 ## 1.0.3
 
 - Fixed onboarding permission prompts and dialog layering.

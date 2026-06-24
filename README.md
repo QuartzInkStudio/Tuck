@@ -2,7 +2,7 @@
 
 **Tuck is a lightweight macOS menu bar manager.** One click hides menu bar clutter, Shelf Mode keeps notched MacBooks usable, and the app stays private by design.
 
-[Download Tuck](https://usetuck.com/Tuck-1.0.3.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/) · [Bartender Alternative](https://usetuck.com/bartender-alternative/)
+[Download Tuck](https://usetuck.com/Tuck-1.0.8.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/) · [Bartender Alternative](https://usetuck.com/bartender-alternative/)
 
 > This repository is the public home for Tuck downloads, release notes, and product information. The commercial app source code is not published here.
 
@@ -17,9 +17,9 @@
 
 ## Download
 
-Latest version: **Tuck 1.0.3 build 4**
+Latest version: **Tuck 1.0.8 build 9**
 
-- Direct DMG: <https://usetuck.com/Tuck-1.0.3.dmg>
+- Direct DMG: <https://usetuck.com/Tuck-1.0.8.dmg>
 - Sparkle appcast: <https://usetuck.com/appcast.xml>
 - GitHub Releases: <https://github.com/QuartzInkStudio/Tuck/releases>
 
@@ -49,13 +49,12 @@ For private billing, license, or account questions, email [support@usetuck.com](
 
 ## Release Highlights
 
-### 1.0.3
+### 1.0.8
 
-- Fixed onboarding permission prompts so Accessibility and Screen Recording are requested only when the user clicks the matching action.
-- Improved macOS permission dialog layering so system prompts are not hidden behind the welcome screen.
-- Updated Shelf behavior so Screen Recording is requested when opening Shelf, not during startup.
-- Added a blue frosted-glass onboarding background.
-- Improved menu bar icon scanning and fallback icons.
+- Fixed permission-window focus during macOS privacy prompts.
+- Prevented Tuck’s own menu bar toggle from disappearing into the hidden side.
+- Repaired Sparkle appcast metadata and homepage download links.
+- Kept the public download and appcast pointed at the notarized 1.0.8 build.
 
 See the full changelog at <https://usetuck.com/releases.html>.
 

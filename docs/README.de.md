@@ -2,7 +2,7 @@
 
 **Tuck ist ein leichtgewichtiger Menüleisten-Manager für macOS.** Verstecken Sie Menüleisten-Chaos mit einem Klick, nutzen Sie Shelf Mode auf MacBooks mit Notch und behalten Sie Privatsphäre by design.
 
-[Download](https://usetuck.com/Tuck-1.0.3.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/)
+[Download](https://usetuck.com/Tuck-1.0.8.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/)
 
 > Dieses Repository enthält öffentliche Downloads, Release Notes und Produktinformationen. Der kommerzielle App-Quellcode wird hier nicht veröffentlicht.
 
@@ -30,6 +30,6 @@ GitHub Issues hilft allen:
 
 Für private Zahlungs-, Lizenz- oder Kontofragen schreiben Sie bitte an [support@usetuck.com](mailto:support@usetuck.com).
 
-Aktuelle Version: **Tuck 1.0.3 build 4**
+Aktuelle Version: **Tuck 1.0.8 build 9**
 
 Vollständiger Changelog: <https://usetuck.com/releases.html>
