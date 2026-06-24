@@ -1,27 +1,60 @@
-# Tuck
+<h1 align="center">Tuck — Your Mac menu bar, finally organized.</h1>
 
-**Tuck is a lightweight macOS menu bar manager.** One click hides menu bar clutter, Shelf Mode keeps notched MacBooks usable, and the app stays private by design.
+<p align="center">
+  A lightweight macOS menu bar manager with one-click hiding, Shelf Mode for notched MacBooks, auto-hide, hover reveal, and private paid-once Pro controls.
+</p>
 
-[Download Tuck](https://usetuck.com/Tuck-1.0.9.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/) · [Bartender Alternative](https://usetuck.com/bartender-alternative/)
+<p align="center">
+  <a href="https://usetuck.com/download/Tuck-1.0.10.dmg"><img alt="Download DMG" src="https://img.shields.io/badge/Download-DMG-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://usetuck.com/"><img alt="Website" src="https://img.shields.io/badge/Website-usetuck.com-5B5B5B?style=for-the-badge"></a>
+  <a href="https://quartz.ink/"><img alt="Quartz" src="https://img.shields.io/badge/Quartz.ink-Indie%20Mac%20Studio-111111?style=for-the-badge"></a>
+</p>
 
-> This repository is the public home for Tuck downloads, release notes, and product information. The commercial app source code is not published here.
+<p align="center">
+  <img alt="Tuck Shelf Mode showing hidden menu bar icons below the macOS menu bar" src="marketing/downloads/tuck-shelf.png">
+</p>
 
-## What Tuck Does
+> This repository is the public home for Tuck downloads, release notes, issues, and product information. The commercial app source code is not published here.
 
-- **Push Mode**: hide every menu bar icon to the left of Tuck with one click.
-- **Shelf Mode**: show hidden icons in a clean panel below the menu bar on notched MacBooks.
-- **Auto-hide and hover reveal**: keep icons hidden until you need them.
-- **Per-icon rules**: always show, always hide, or toggle individual menu bar icons.
-- **Keyboard shortcut**: toggle from anywhere with `Command + Shift + B`.
-- **Zero telemetry**: no analytics, no tracking, no background data collection.
+## What Tuck does
+
+Tuck gives macOS a calmer menu bar without making you uninstall useful utilities. Put noisy status items to the left of Tuck, hide them with one click, and bring them back only when you need them.
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>Before</strong><br>
+      Every utility competes for permanent menu bar space.
+    </td>
+    <td width="50%">
+      <strong>After</strong><br>
+      Tuck keeps the top edge clean while hidden tools remain one click away.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="marketing/downloads/tuck-before.png" alt="Cluttered macOS menu bar before Tuck"></td>
+    <td><img src="marketing/downloads/tuck-after.png" alt="Clean macOS menu bar after Tuck"></td>
+  </tr>
+</table>
+
+## Highlights
+
+| Feature | What it gives you |
+| --- | --- |
+| **Push Mode** | Hide every menu bar icon to the left of Tuck with one click. |
+| **Shelf Mode** | Show hidden icons in a clean panel below the menu bar on notched MacBooks. |
+| **Auto-hide** | Hide icons again after a delay. |
+| **Hover reveal** | Peek at tucked icons without fully changing modes. |
+| **Per-icon control** | Always show, always hide, or toggle individual menu bar icons. |
+| **Keyboard shortcut** | Toggle from anywhere with <kbd>⌘⇧B</kbd>. |
+| **Zero telemetry** | No analytics, tracking, or background behavior collection. |
 
 ## Download
 
-Latest version: **Tuck 1.0.9 build 10**
-
-- Direct DMG: <https://usetuck.com/Tuck-1.0.9.dmg>
-- Sparkle appcast: <https://usetuck.com/appcast.xml>
-- GitHub Releases: <https://github.com/QuartzInkStudio/Tuck/releases>
+- **Latest DMG:** [Download Tuck](https://usetuck.com/download/Tuck-1.0.10.dmg)
+- **Website:** [usetuck.com](https://usetuck.com/)
+- **Release notes:** [usetuck.com/releases](https://usetuck.com/releases)
+- **GitHub Releases:** [QuartzInkStudio/Tuck releases](https://github.com/QuartzInkStudio/Tuck/releases)
 
 ## Languages
 
@@ -32,48 +65,28 @@ Latest version: **Tuck 1.0.9 build 10**
 - [Français](docs/README.fr.md)
 - [Deutsch](docs/README.de.md)
 
-
-## Issues and Feedback
+## Issues and feedback
 
 Please open issues in this repository: <https://github.com/QuartzInkStudio/Tuck/issues>
 
 Using GitHub Issues helps everyone:
 
-- **One public place for feedback**: bugs, feature requests, compatibility reports, and release questions do not get lost in private email threads.
-- **Transparent status**: other users can see whether a problem is known, being investigated, fixed, or released.
-- **Better bug reports**: screenshots, macOS versions, Tuck versions, and reproduction steps can stay attached to the same thread.
-- **Community signal**: reactions and comments help prioritize the fixes and features that matter most.
-- **Multilingual support**: you can write in your preferred language; short English summaries are helpful but not required.
+- **One public place for feedback:** bugs, feature requests, compatibility reports, and release questions do not get lost in private email threads.
+- **Transparent status:** other users can see whether a problem is known, being investigated, fixed, or released.
+- **Better bug reports:** screenshots, macOS versions, Tuck versions, and reproduction steps stay attached to the same thread.
+- **Community signal:** reactions and comments help prioritize the fixes and features that matter most.
+- **Multilingual support:** you can write in your preferred language; short English summaries are helpful but not required.
 
 For private billing, license, or account questions, email [support@usetuck.com](mailto:support@usetuck.com).
 
-## Release Highlights
-
-### 1.0.9
-
-- Reduced occasional Shelf Mode open delay by falling back to the local shelf cache when the hidden-section snapshot is empty.
-- Published a notarized and stapled 1.0.9 DMG plus Sparkle appcast delta assets.
-
-### 1.0.8
-
-- Fixed permission-window focus during macOS privacy prompts.
-- Prevented Tuck’s own menu bar toggle from disappearing into the hidden side.
-- Repaired Sparkle appcast metadata and homepage download links.
-- Kept the public download and appcast pointed at the notarized 1.0.8 build.
-
-See the full changelog at <https://usetuck.com/releases.html>.
-
 ## Privacy
 
-Tuck does not collect telemetry, analytics, or tracking data. Network access is limited to license validation and Sparkle update checks.
+Tuck does not collect telemetry, analytics, or tracking data. Network access is limited to license validation and Sparkle update checks. macOS permissions are used only for menu bar interaction and Shelf behavior.
 
-## Support
+## More from Quartz
 
-Email: [support@usetuck.com](mailto:support@usetuck.com)
+Tuck is built by [Quartz](https://quartz.ink/), an indie Mac studio making focused, private, paid-once tools for macOS.
 
-## Links
-
-- Website: <https://usetuck.com/>
-- Privacy: <https://usetuck.com/privacy.html>
-- Terms: <https://usetuck.com/terms.html>
-- Refund policy: <https://usetuck.com/refund.html>
+- [Facet](https://facet.quartz.ink/) — a classic Launchpad replacement for macOS
+- [PeekMark](https://peekmark.quartz.ink/) — native Markdown preview for Mac
+- [Tuck](https://usetuck.com/) — menu bar organization for macOS
