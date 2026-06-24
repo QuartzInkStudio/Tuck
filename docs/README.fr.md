@@ -2,7 +2,7 @@
 
 **Tuck est un gestionnaire léger de barre des menus pour macOS.** Masquez les icônes en un clic, utilisez Shelf Mode sur les MacBook avec encoche, et gardez une expérience privée par défaut.
 
-[Télécharger](https://usetuck.com/Tuck-1.0.8.dmg) · [Notes de version](https://usetuck.com/releases.html) · [Site web](https://usetuck.com/)
+[Télécharger](https://usetuck.com/Tuck-1.0.9.dmg) · [Notes de version](https://usetuck.com/releases.html) · [Site web](https://usetuck.com/)
 
 > Ce dépôt contient les téléchargements publics, les notes de version et les informations produit. Le code source commercial de l’app n’est pas publié ici.
 
@@ -30,6 +30,6 @@ GitHub Issues aide tout le monde :
 
 Pour les questions privées de paiement, licence ou compte, écrivez à [support@usetuck.com](mailto:support@usetuck.com).
 
-Dernière version : **Tuck 1.0.8 build 9**
+Dernière version : **Tuck 1.0.9 build 10**
 
 Changelog complet : <https://usetuck.com/releases.html>
