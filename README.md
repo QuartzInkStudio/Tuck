@@ -15,7 +15,7 @@ brew install --cask QuartzInkStudio/tap/tuck-menu-bar
 ```
 
 <p align="center">
-  <img alt="Tuck Shelf Mode showing hidden menu bar icons below the macOS menu bar" src="marketing/downloads/tuck-shelf.png">
+  <img alt="Tuck Shelf Mode organizing hidden menu bar icons on a real macOS desktop" src="marketing/downloads/tuck-hero.png">
 </p>
 
 > This repository is the public home for Tuck downloads, release notes, issues, and product information. The commercial app source code is not published here.
