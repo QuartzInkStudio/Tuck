@@ -4,8 +4,18 @@
   A lightweight macOS menu bar manager with one-click hiding, Shelf Mode for notched MacBooks, auto-hide, hover reveal, and private paid-once Pro controls.
 </p>
 
+> [!IMPORTANT]
+> **Using macOS 27 Golden Gate Beta?** Tuck 1.0.26 Compatibility Preview is now available as a separate signed and notarized build.
+>
+> It uses a new macOS 27 compatibility backend. Tuck 1.0.25 remains the stable release for macOS 14–26.
+>
+> Known beta limitations: menu bar items belonging to the same app are managed together, and some third-party items may not respond when opened from Shelf.
+>
+> [Read the macOS 27 compatibility guide and download the Preview](https://usetuck.com/macos-27-menu-bar-manager/)
+
 <p align="center">
   <a href="https://usetuck.com/download/Tuck-1.0.25.dmg"><img alt="Download DMG" src="https://img.shields.io/badge/Download-DMG-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://usetuck.com/macos-27-menu-bar-manager/"><img alt="macOS 27 Preview" src="https://img.shields.io/badge/macOS%2027-Compatibility%20Preview-F5A623?style=for-the-badge&logo=apple&logoColor=white"></a>
   <a href="https://usetuck.com/"><img alt="Website" src="https://img.shields.io/badge/Website-usetuck.com-5B5B5B?style=for-the-badge"></a>
   <a href="https://quartz.ink/"><img alt="Quartz" src="https://img.shields.io/badge/Quartz.ink-Indie%20Mac%20Studio-111111?style=for-the-badge"></a>
 </p>
