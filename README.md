@@ -14,7 +14,7 @@
 > [Read the macOS 27 compatibility guide and download the Preview](https://usetuck.com/macos-27-menu-bar-manager/)
 
 <p align="center">
-  <a href="https://usetuck.com/download/Tuck-1.3.7.dmg"><img alt="Download DMG" src="https://img.shields.io/badge/Download-DMG-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://usetuck.com/download/Tuck-1.3.8.dmg"><img alt="Download DMG" src="https://img.shields.io/badge/Download-DMG-0A84FF?style=for-the-badge&logo=apple&logoColor=white"></a>
   <a href="https://usetuck.com/macos-27-menu-bar-manager/"><img alt="macOS 27 Preview" src="https://img.shields.io/badge/macOS%2027-Compatibility%20Preview-F5A623?style=for-the-badge&logo=apple&logoColor=white"></a>
   <a href="https://usetuck.com/"><img alt="Website" src="https://img.shields.io/badge/Website-usetuck.com-5B5B5B?style=for-the-badge"></a>
   <a href="https://quartz.ink/"><img alt="Quartz" src="https://img.shields.io/badge/Quartz.ink-Indie%20Mac%20Studio-111111?style=for-the-badge"></a>
@@ -65,7 +65,7 @@ Tuck gives macOS a calmer menu bar without making you uninstall useful utilities
 
 ## Download
 
-- **Latest DMG:** [Download Tuck 1.3.7](https://usetuck.com/download/Tuck-1.3.7.dmg)
+- **Latest DMG:** [Download Tuck 1.3.8](https://usetuck.com/download/Tuck-1.3.8.dmg)
 - **Homebrew:** `brew install --cask QuartzInkStudio/tap/tuck-menu-bar`
 - **Website:** [usetuck.com](https://usetuck.com/)
 - **Release notes:** [usetuck.com/releases](https://usetuck.com/releases)
