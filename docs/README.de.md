@@ -2,7 +2,9 @@
 
 **Tuck ist ein leichtgewichtiger Menüleisten-Manager für macOS.** Verstecken Sie Menüleisten-Chaos mit einem Klick, nutzen Sie Shelf Mode auf MacBooks mit Notch und behalten Sie Privatsphäre by design.
 
-[Download](https://usetuck.com/Tuck-1.0.9.dmg) · [Release Notes](https://usetuck.com/releases.html) · [Website](https://usetuck.com/)
+[Download](https://usetuck.com/download/Tuck-1.5.6.dmg) · [Release Notes](https://usetuck.com/releases) · [Website](https://usetuck.com/)
+
+Die stabile Version von Tuck lässt sich unter macOS 14 bis 27 mit derselben DMG-Datei installieren.
 
 > Dieses Repository enthält öffentliche Downloads, Release Notes und Produktinformationen. Der kommerzielle App-Quellcode wird hier nicht veröffentlicht.
 

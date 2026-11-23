@@ -2,7 +2,9 @@
 
 **Tuck は軽量な macOS メニューバー管理アプリです。** ワンクリックでアイコンの clutter を隠し、ノッチ付き MacBook では Shelf Mode で隠したアイコンを見やすく表示します。
 
-[ダウンロード](https://usetuck.com/Tuck-1.0.9.dmg) · [リリースノート](https://usetuck.com/releases.html) · [公式サイト](https://usetuck.com/)
+[ダウンロード](https://usetuck.com/download/Tuck-1.5.6.dmg) · [リリースノート](https://usetuck.com/releases) · [公式サイト](https://usetuck.com/)
+
+macOS 14〜27 では、同じ安定版の DMG を使用できます。
 
 > このリポジトリは Tuck の公開ダウンロード、リリースノート、製品情報のためのものです。商用アプリのソースコードは公開していません。
 

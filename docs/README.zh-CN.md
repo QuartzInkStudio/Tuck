@@ -2,7 +2,9 @@
 
 **Tuck 是一款轻量的 macOS 菜单栏管理工具。** 一键隐藏拥挤的菜单栏图标，Notch MacBook 可使用 Shelf 模式，并且默认不做任何遥测追踪。
 
-[下载 Tuck](https://usetuck.com/Tuck-1.0.9.dmg) · [更新日志](https://usetuck.com/releases.html) · [官网](https://usetuck.com/)
+[下载 Tuck](https://usetuck.com/download/Tuck-1.5.6.dmg) · [更新日志](https://usetuck.com/releases) · [官网](https://usetuck.com/)
+
+macOS 14–27 均可使用同一个正式版 DMG 安装包。
 
 > 这个仓库用于公开发布 Tuck 的下载、更新日志和产品介绍。商业版 App 源码不在此仓库公开。
 
