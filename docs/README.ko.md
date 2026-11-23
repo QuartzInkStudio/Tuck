@@ -2,7 +2,9 @@
 
 **Tuck은 가벼운 macOS 메뉴 막대 관리 앱입니다.** 한 번의 클릭으로 메뉴 막대 아이콘을 숨기고, 노치가 있는 MacBook에서는 Shelf Mode로 숨긴 아이콘을 깔끔하게 보여줍니다.
 
-[다운로드](https://usetuck.com/Tuck-1.0.9.dmg) · [릴리스 노트](https://usetuck.com/releases.html) · [웹사이트](https://usetuck.com/)
+[다운로드](https://usetuck.com/download/Tuck-1.5.6.dmg) · [릴리스 노트](https://usetuck.com/releases) · [웹사이트](https://usetuck.com/)
+
+macOS 14부터 macOS 27까지 동일한 정식 버전 DMG로 설치할 수 있습니다.
 
 > 이 저장소는 Tuck의 공개 다운로드, 릴리스 노트, 제품 정보를 위한 공간입니다. 상용 앱 소스 코드는 공개하지 않습니다.
 
